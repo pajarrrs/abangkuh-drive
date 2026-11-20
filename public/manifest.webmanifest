@@ -1,0 +1,18 @@
+{
+  "name": "Abangku Driver — Titip Kantor",
+  "short_name": "Abangku Driver",
+  "description": "Titip makan dan barang kantor dengan 2 Driver, 2 sesi harian, dan QRIS per warung.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#071E33",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
